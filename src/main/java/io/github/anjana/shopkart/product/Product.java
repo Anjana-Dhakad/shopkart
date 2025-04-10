@@ -1,4 +1,4 @@
-package io.github.anjana.shopkart;
+package io.github.anjana.shopkart.product;
 
 import java.util.Objects;
 
